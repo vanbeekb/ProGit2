@@ -1,1 +1,2 @@
 rubyTestOnMasterBranch();
+rubyTest()
